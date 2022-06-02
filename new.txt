@@ -1,0 +1,4 @@
+name Andrii Kika
+age 24
+pets - 1
+salary800
